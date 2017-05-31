@@ -1,0 +1,29 @@
+#gameCanvas {
+	width: 800px;
+	height: 440px;
+	margin: 0 auto;
+	display: block;
+	
+	/*
+	border: solid 3px red;
+	background: url("../img/TEMPLATE.png");
+	background-size: 800px 400px;
+    background-repeat: no-repeat;
+	*/
+}
+
+#pacman {
+	width:30px; 
+	height: 30px;
+	position: relative;
+	left: 15px;
+	top: 5px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: 'Arial';
+	position: relative;
+	top: 100px;
+}
